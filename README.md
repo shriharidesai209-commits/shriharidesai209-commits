@@ -1,172 +1,178 @@
 
-<!-- ===================================================== -->
-<!--                 SHRIHARI H DESAI                      -->
-<!--              GitHub Profile README                    -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-# Hey there, I'm Shrihari H Desai 👋
+# 👋 Hey, I'm Shrihari H Desai!
 
-### Computer Science Student | AI & Data Enthusiast | Developer
+### 💻 Computer Science Student | 🤖 AI & Data Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E6A15C&center=true&vCenter=true&width=650&lines=Building+intelligent+systems;Exploring+AI+%26+Data+Engineering;Turning+ideas+into+working+projects;Learning+by+building+and+breaking" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FF8C42&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Building+Intelligent+Systems;Exploring+AI+%26+Data+Engineering;Turning+Ideas+Into+Reality" />
 
 <p>
-  <a href="https://github.com/shriharidesai209-commits">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shrihari-h-desai/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/shriharidesai209-commits/shriharidesai209-commits.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-DA8B45?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+<a href="https://github.com/shriharidesai209-commits">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/shrihari-h-desai/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/shriharidesai209-commits/shriharidesai209-commits.github.io">
+<img src="https://img.shields.io/badge/Portfolio-FF8C42?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,6,10,12&height=4"/>
 
 </div>
 
----
+## 🌟 About Me
 
-## 🧑‍💻 About Me
+- 🎓 B.Tech — Computer Science in Information Technology at **REVA University**.
+- 🤖 Interested in Artificial Intelligence, Machine Learning and Data Engineering.
+- 💡 Love building practical solutions to real-world problems.
+- 🧠 Exploring graph databases, intelligent systems and AI-powered applications.
+- 🏆 **2nd Place** in a 24-hour hackathon among 50 teams.
+- 🌱 Currently strengthening my DSA, programming and software engineering fundamentals.
 
-- 🎓 B.Tech student at **REVA University** — Computer Science in Information Technology.
-- 🤖 Interested in **Artificial Intelligence, Machine Learning and Data Engineering**.
-- 💡 Passionate about building practical solutions to real-world problems.
-- 🔍 Exploring intelligent systems, graph databases and AI-powered applications.
-- 🏆 **2nd Place** in a 24-hour hackathon with 50 participating teams.
-- 🌱 Currently strengthening my programming, DSA and software engineering fundamentals.
-
-> My goal: Become an AI-augmented engineer — someone who understands the fundamentals, builds independently and uses AI strategically.
+> 🚀 Become an AI-augmented engineer, not an AI-dependent coder.
 
 ---
 
-## ⚒️ Tech Stack
+## 🛠️ Tech Stack
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
-</p>
-
-### AI, Data & Machine Learning
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `Random Forest`
-
-### Web Development
+### 🤖 AI & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nextjs,tailwind" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### Tools & Technologies
+### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,fastapi" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-`FalkorDB` · `MCP` · `YOLO` · `ByteTrack` · `MySQL`
+### ⚙️ Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/FalkorDB-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-6C5CE7?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Ripple — Graph Intelligence for AI Coding Agents
+### 🥈 1. Ripple — Graph Intelligence for AI Coding Agents
 
-🏆 **2nd Place Hackathon Project**
+**🏆 2nd Place | 24-Hour Hackathon | 50 Teams**
 
-A FalkorDB-powered graph intelligence platform designed to help AI coding agents understand code dependencies and make safer code changes.
+A FalkorDB-powered graph intelligence platform that helps AI coding agents understand code dependencies and make safer code changes.
 
-- Dependency blast-radius analysis.
-- Multi-hop dependency path tracing.
-- Risk-hotspot detection.
-- Safe edit ordering.
-- Custom MCP server developed by our team.
+- 🔍 Dependency blast-radius analysis.
+- 🕸️ Multi-hop dependency path tracing.
+- ⚠️ Risk-hotspot detection.
+- 🛡️ Safe edit ordering.
+- 🔌 Custom MCP server developed by our team.
 
-**Tech:** Python · FalkorDB · MCP · Graph Intelligence
-
----
-
-### 2. AegisVision — Intelligent CCTV Analytics
-
-An AI-powered video intelligence prototype for real-time visual threat and anomaly detection.
-
-- Object detection and multi-object tracking.
-- Temporal trajectory analysis.
-- Behaviour and anomaly intelligence.
-- Risk-based event classification.
-
-**Tech:** Python · YOLO11 · ByteTrack · Computer Vision
+`Python` `FalkorDB` `MCP` `Graph Intelligence`
 
 ---
 
-### 3. AttackPath — Graph-Powered Security Investigation
+### 🔐 2. AttackPath — Graph-Powered Security Investigation
 
-A graph-based security investigation platform for discovering potential attack paths across connected infrastructure.
+A graph-based security investigation platform designed to discover potential attack paths across connected infrastructure.
 
 - Multi-hop attack-path discovery.
 - Security evidence analysis.
 - Risk prioritisation.
-- Simulated remediation and what-if analysis.
+- Simulated remediation and what-if workflows.
 
-**Tech:** Python · FalkorDB · FastAPI · NetworkX
+`Python` `FalkorDB` `FastAPI` `NetworkX`
 
 ---
 
-### 4. Smartphone & Online Gaming Addiction Analyzer
+### 📊 3. Smartphone & Online Gaming Addiction Analyzer
 
 A machine learning project that analyses smartphone usage and online gaming behaviour to estimate addiction risk.
 
 - Data preprocessing and analysis.
 - Feature engineering.
 - Machine learning classification.
-- Risk prediction using Random Forest.
+- Random Forest-based risk prediction.
 
-**Tech:** Python · Pandas · NumPy · Matplotlib · Scikit-learn
-
----
-
-## 🏆 Achievements
-
-| Achievement | Details |
-|:--|:--|
-| 🥈 Hackathon | 2nd Place with Ripple |
-| 👥 Competition | 50 participating teams |
-| ⏱️ Challenge | 24-hour hackathon |
-| 📜 Certifications | IBM Python for Data Science — 4 certificates |
+`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shriharidesai209-commits&show_icons=true&theme=transparent&hide_border=true&title_color=DAA36A&icon_color=DAA36A&text_color=C9D1D9" />
+<img src="https://img.shields.io/badge/🥈_2nd_Place-Hackathon-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/50_Teams-Competition-FF8C42?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IBM-Python_for_Data_Science-1F70C1?style=for-the-badge"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriharidesai209-commits&layout=compact&theme=transparent&hide_border=true&title_color=DAA36A&text_color=C9D1D9" />
+</div>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shriharidesai209-commits&theme=transparent&hide_border=true&ring=DAA36A&fire=DAA36A&currStreakLabel=DAA36A" />
+- 🥈 Secured 2nd place with Ripple in a 24-hour hackathon.
+- 👥 Competed against 50 teams from across Bengaluru.
+- 📜 Completed four IBM Python for Data Science certificates.
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shriharidesai209-commits&show_icons=true&theme=radical&hide_border=true&title_color=FF8C42&icon_color=00D9A6"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriharidesai209-commits&layout=compact&theme=radical&hide_border=true&title_color=FF8C42"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shriharidesai209-commits&theme=radical&hide_border=true&ring=FF8C42&fire=FFD700&currStreakLabel=00D9A6"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect!
 
 <div align="center">
 
-<a href="https://github.com/shriharidesai209-commits">GitHub</a> •
-<a href="https://www.linkedin.com/in/shrihari-h-desai/">LinkedIn</a> •
-<a href="https://github.com/shriharidesai209-commits/shriharidesai209-commits.github.io">Portfolio</a>
+<a href="https://github.com/shriharidesai209-commits">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shrihari-h-desai/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shriharidesai209-commits/shriharidesai209-commits.github.io">
+<img src="https://img.shields.io/badge/My_Portfolio-FF8C42?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 <br/>
 
-### "Build with curiosity. Engineer with purpose."
+### 💡 "Build with curiosity. Engineer with purpose."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DAA36A,100:455A50&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,50:00D9A6,100:6C5CE7&height=120&section=footer"/>
 
 </div>
