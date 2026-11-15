@@ -76,7 +76,7 @@ Hello! I'm **Shrihari**, a Computer Science student at **REVA University** who e
 
 ## <span style="color:#C69A70">𓂃 Featured Projects</span>
 
-### 🥈 01. Ripple — Graph Intelligence for AI Coding Agents
+### 🥈 01. Sarvam-Ripple — Graph Intelligence for AI Coding Agents
 
 **<span style="color:#C69A70">2nd Place · 24-Hour Hackathon · 50 Teams</span>**
 
